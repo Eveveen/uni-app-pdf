@@ -8,9 +8,9 @@
 1.  git clone https://gitee.com/m_eve_admin/uni-app-pdf.git
 2.  打开HBuilderX导入项目
 3.  运行到手机查看效果图
+![预览](https://gitee.com/m_eve_admin/pic/blob/master/view-pdf.png)
 
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  将pdf.js下载的文件放到路径/hybrid/html下
+2.  调用方法在index.vue中，具体查看注释即可
